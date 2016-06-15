@@ -794,7 +794,36 @@
     <div class="article-entry" itemprop="articleBody">
       
           
-        
+        <h1 id="1、andbase开发框架"><a href="#1、andbase开发框架" class="headerlink" title="1、andbase开发框架"></a>1、andbase开发框架</h1><ul>
+<li><strong>项目下载地址(1)：</strong><a href="https://github.com/zhaoqp2010/andbase" target="_blank" rel="external">https://github.com/zhaoqp2010/andbase</a></li>
+<li><strong>项目下载地址(2)：</strong> <a href="http://www.amsoft.cn/article/view-429.html" target="_blank" rel="external">http://www.amsoft.cn/article/view-429.html</a>   （带有效果图）</li>
+<li>andbase中包含了大量的开发常用手段。<br>如网络下载，多线程与线程池的管理，数据库ORM，图片缓存管理，图片文件下载上传，Http请求工具，SOAP工具类，异步Task，常用工具类（字符串，日期，文件处理，图片处理工具类等），能够使您的应用在团队开发中减少冗余代码，很大的提高了代码的维护性与开发高效性，能很好的规避由于开发疏忽而导致常犯的错误。</li>
+<li>andbase封装了大量的常用控件。<br>如list分页，grid分页，下拉刷新，进度框，图片轮播，表格，多线程下载器，侧边栏，图片上传，轮子选择，图表，Tab滑动，日历选择器等。</li>
+<li>强大的AbActivity，您没有理由不继承它。<br>继承它你能够获得一个简单强大可设置的操作栏，以及一系列的简单调用，如弹出框，提示框，进度框，副操作栏等。</li>
+<li>提供效率较高图片缓存管理策略，使内存大幅度节省，利用率提高，效率提高。<br>程序中要管理大量的图片资源，andbase提供简单的方法，几步完成下载与显示，并支持缩放，裁剪，缓存功能，OOM不再有。</li>
+<li>封装了大量常见工具类。<br>包括日期，字符，文件，图片，数学，View万能适配工具类等各种处理函数， 多而全。</li>
+<li>用andbase大量减少handler的使用，而采用回调函数，代码更整洁。<br>handler会产生大量代码，并且不好维护，andbase对handler进行了封装，你会发现用了andbase基本代码中不会再有大量的handler判断语句。</li>
+<li>简单轻量支持注解自动建表的ORM框架（支持一/多对多的关联操作）。<br>写sql，建表，工作量大，andbase提供更傻瓜异步增删改查工具类，数据库在内置卡和外置卡都可以。</li>
+<li>异步请求http框架，网络请求标准化，支持文件上传下载，get，post，进度显示。<br>包含了异步与http请求的工具类，SOAP请求工具类，简单实用。</li>
+</ul>
+<h1 id="2、xUtils开发框架"><a href="#2、xUtils开发框架" class="headerlink" title="2、xUtils开发框架"></a>2、xUtils开发框架</h1><ul>
+<li><strong>xutils地址：</strong><a href="https://github.com/wyouflf/xUtils" target="_blank" rel="external">https://github.com/wyouflf/xUtils</a></li>
+<li><strong>xutils3地址：</strong><a href="https://github.com/wyouflf/xUtils3" target="_blank" rel="external">https://github.com/wyouflf/xUtils3</a></li>
+<li>xutils已更新到xutils3 ，xutils3 重构了xutils很多ＡＰＩ</li>
+<li>xutils3包含了很多实用的android工具.</li>
+<li>xutils3支持超大文件(超过2G)上传，更全面的http请求协议支持(11种谓词)，拥有更加灵活的ORM，更多的事件注解支持且不受混淆影响…<br>xutils3最低兼容Android 4.0 (api level 14). (Android 2.3?)<br>xutils3变化较多所以建立了新的项目不在旧版(github.com/wyouflf/xUtils)上继续维护, 相对于旧版本:<br>HTTP实现替换HttpClient为UrlConnection, 自动解析回调泛型, 更安全的断点续传策略.<br>支持标准的Cookie策略, 区分domain, path…<br>事件注解去除不常用的功能, 提高性能.<br>数据库api简化提高性能, 达到和greenDao一致的性能.<br>图片绑定支持gif(受系统兼容性影响, 部分gif文件只能静态显示), webp; 支持圆角, 圆形, 方形等裁剪, 支持自动旋转…</li>
+</ul>
+<h1 id="3、Afinal开发框架"><a href="#3、Afinal开发框架" class="headerlink" title="3、Afinal开发框架"></a>3、Afinal开发框架</h1><ul>
+<li><strong>Afinal地址：</strong><a href="https://github.com/yangfuhai/afinal" target="_blank" rel="external">https://github.com/yangfuhai/afinal</a></li>
+<li>Afinal 是一个android的sqlite orm 和 ioc 框架。同时封装了android中的http框架，使其更加简单易用；</li>
+<li>使用finalBitmap，无需考虑bitmap在android中加载的时候oom的问题和快速滑动的时候图片加载位置错位等问题。</li>
+<li>Afinal的宗旨是简洁，快速。约定大于配置的方式。尽量一行代码完成所有事情。</li>
+<li>FinalDB模块：android中的orm框架，一行代码就可以进行增删改查。支持一对多，多对一等查询。</li>
+<li>FinalActivity模块：android中的ioc框架，完全注解方式就可以进行UI绑定和事件绑定。无需findViewById和setClickListener等。</li>
+<li>FinalHttp模块：通过httpclient进行封装http数据请求，支持ajax方式加载。</li>
+<li>FinalBitmap模块：通过FinalBitmap，imageview加载bitmap的时候无需考虑bitmap加载过程中出现的oom和android容器快速滑动时候出现的图片错位等现象。FinalBitmap可以配置线程加载线程数量，缓存大小，缓存路径，加载显示动画等。FinalBitmap的内存管理使用lru算法，没有使用弱引用（android2.3以后google已经不建议使用弱引用，android2.3后强行回收软引用和弱引用，详情查看android官方文档），更好的管理bitmap内存。FinalBitmap可以自定义下载器，用来扩展其他协议显示网络图片，比如ftp等。同时可以自定义bitmap显示器，在imageview显示图片的时候播放动画等（默认是渐变动画显示）。</li>
+</ul>
+
       
     </div>
     
