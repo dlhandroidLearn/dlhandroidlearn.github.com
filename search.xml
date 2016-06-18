@@ -17,6 +17,10 @@
 <li><strong>效果图</strong></li>
 <li><img src="http://bmob-cdn-269.b0.upaiyun.com/2016/04/25/b9c54e2640802d2d80b799bff20b9ba6.png" alt="enter image description here"></li>
 </ul>
+<ul>
+<li><a id="more"></a>
+</li>
+</ul>
 <p>2、 <strong>BannerLayout</strong></p>
 <ul>
 <li>一款简洁实用的android广告栏</li>
@@ -465,19 +469,7 @@
     <entry>
       <title><![CDATA[android开发工具]]></title>
       <url>https://dlhandroidlearn.github.io/2016/06/15/developmentTool/</url>
-      <content type="html"><![CDATA[<h1 id="1、JDK"><a href="#1、JDK" class="headerlink" title="1、JDK"></a>1、JDK</h1><ul>
-<li><strong>1.8 版本 win(32/64)、mac、linux (32/64)</strong></li>
-<li><strong>下载地址： </strong> <a href="http://pan.baidu.com/s/1mhDWlcs" target="_blank" rel="external">http://pan.baidu.com/s/1mhDWlcs</a></li>
-<li><strong>1.7 版本 win(32/64)、mac、linux (32/64)</strong></li>
-<li><strong>下载地址： </strong> <a href="http://pan.baidu.com/s/1miGoqyk" target="_blank" rel="external">http://pan.baidu.com/s/1miGoqyk</a></li>
-</ul>
-<h1 id="2、adt-bundle"><a href="#2、adt-bundle" class="headerlink" title="2、adt-bundle"></a>2、adt-bundle</h1><ul>
-<li><strong>adt-bundle 23.0.2 版本 win(32/64)、mac、linux (32/64)</strong></li>
-<li><strong>下载地址：</strong> <a href="http://pan.baidu.com/s/1dFa5dL3" target="_blank" rel="external">http://pan.baidu.com/s/1dFa5dL3</a> </li>
-<li><strong>adt-bundle 23.0.0 版本 win(32/64)、mac、linux (32/64)</strong></li>
-<li><strong>下载地址：</strong><a href="http://pan.baidu.com/s/1pK9gtHD" target="_blank" rel="external">http://pan.baidu.com/s/1pK9gtHD</a></li>
-</ul>
-<h1 id="3、android-Studio"><a href="#3、android-Studio" class="headerlink" title="3、android Studio"></a>3、android Studio</h1><ul>
+      <content type="html"><![CDATA[<h1 id="1、android-Studio"><a href="#1、android-Studio" class="headerlink" title="1、android Studio"></a>1、android Studio</h1><ul>
 <li><strong>android studio 2.1.1 正式版 win(32/64)、mac、linux (32/64)</strong></li>
 <li><strong>下载地址：</strong><a href="http://pan.baidu.com/s/1i5BAFXV" target="_blank" rel="external">http://pan.baidu.com/s/1i5BAFXV</a></li>
 <li><strong>android studio 2.0 正式版 win(32/64)、mac、linux (32/64)</strong></li>
@@ -486,6 +478,22 @@
 <li><strong>下载地址：</strong><a href="http://pan.baidu.com/s/1hsi62mo" target="_blank" rel="external">http://pan.baidu.com/s/1hsi62mo</a></li>
 <li><strong>android studio 1.4 正式版 win(32/64)、mac、linux (32/64)</strong></li>
 <li><strong>下载地址：</strong><a href="http://pan.baidu.com/s/1bpa9k7t" target="_blank" rel="external">http://pan.baidu.com/s/1bpa9k7t</a></li>
+</ul>
+<ul>
+<li><a id="more"></a>
+</li>
+</ul>
+<h1 id="2、JDK"><a href="#2、JDK" class="headerlink" title="2、JDK"></a>2、JDK</h1><ul>
+<li><strong>1.8 版本 win(32/64)、mac、linux (32/64)</strong></li>
+<li><strong>下载地址： </strong> <a href="http://pan.baidu.com/s/1mhDWlcs" target="_blank" rel="external">http://pan.baidu.com/s/1mhDWlcs</a></li>
+<li><strong>1.7 版本 win(32/64)、mac、linux (32/64)</strong></li>
+<li><strong>下载地址： </strong> <a href="http://pan.baidu.com/s/1miGoqyk" target="_blank" rel="external">http://pan.baidu.com/s/1miGoqyk</a></li>
+</ul>
+<h1 id="3、adt-bundle"><a href="#3、adt-bundle" class="headerlink" title="3、adt-bundle"></a>3、adt-bundle</h1><ul>
+<li><strong>adt-bundle 23.0.2 版本 win(32/64)、mac、linux (32/64)</strong></li>
+<li><strong>下载地址：</strong> <a href="http://pan.baidu.com/s/1dFa5dL3" target="_blank" rel="external">http://pan.baidu.com/s/1dFa5dL3</a> </li>
+<li><strong>adt-bundle 23.0.0 版本 win(32/64)、mac、linux (32/64)</strong></li>
+<li><strong>下载地址：</strong><a href="http://pan.baidu.com/s/1pK9gtHD" target="_blank" rel="external">http://pan.baidu.com/s/1pK9gtHD</a></li>
 </ul>
 <h1 id="4-SDK"><a href="#4-SDK" class="headerlink" title="4 SDK"></a>4 SDK</h1><ul>
 <li><strong>android-sdk_r24.4.1 win、mac、linux </strong></li>
@@ -503,7 +511,7 @@
     <entry>
       <title><![CDATA[android常用框架]]></title>
       <url>https://dlhandroidlearn.github.io/2016/06/15/androidframe/</url>
-      <content type="html"><![CDATA[<h1 id="1、andbase开发框架"><a href="#1、andbase开发框架" class="headerlink" title="1、andbase开发框架"></a>1、andbase开发框架</h1><ul>
+      <content type="html"><![CDATA[<h1 id="综合框架-orm、ioc、http-图片处理"><a href="#综合框架-orm、ioc、http-图片处理" class="headerlink" title="综合框架(orm、ioc、http,图片处理)"></a>综合框架(orm、ioc、http,图片处理)</h1><h2 id="1、andbase开发框架"><a href="#1、andbase开发框架" class="headerlink" title="1、andbase开发框架"></a>1、andbase开发框架</h2><ul>
 <li><strong>项目下载地址(1)：</strong><a href="https://github.com/zhaoqp2010/andbase" target="_blank" rel="external">https://github.com/zhaoqp2010/andbase</a></li>
 <li><strong>项目下载地址(2)：</strong> <a href="http://www.amsoft.cn/article/view-429.html" target="_blank" rel="external">http://www.amsoft.cn/article/view-429.html</a>   （带有效果图）</li>
 <li>andbase中包含了大量的开发常用手段。<br>如网络下载，多线程与线程池的管理，数据库ORM，图片缓存管理，图片文件下载上传，Http请求工具，SOAP工具类，异步Task，常用工具类（字符串，日期，文件处理，图片处理工具类等），能够使您的应用在团队开发中减少冗余代码，很大的提高了代码的维护性与开发高效性，能很好的规避由于开发疏忽而导致常犯的错误。</li>
@@ -515,14 +523,18 @@
 <li>简单轻量支持注解自动建表的ORM框架（支持一/多对多的关联操作）。<br>写sql，建表，工作量大，andbase提供更傻瓜异步增删改查工具类，数据库在内置卡和外置卡都可以。</li>
 <li>异步请求http框架，网络请求标准化，支持文件上传下载，get，post，进度显示。<br>包含了异步与http请求的工具类，SOAP请求工具类，简单实用。</li>
 </ul>
-<h1 id="2、xUtils开发框架"><a href="#2、xUtils开发框架" class="headerlink" title="2、xUtils开发框架"></a>2、xUtils开发框架</h1><ul>
+<ul>
+<li><a id="more"></a>
+</li>
+</ul>
+<h2 id="2、xUtils开发框架"><a href="#2、xUtils开发框架" class="headerlink" title="2、xUtils开发框架"></a>2、xUtils开发框架</h2><ul>
 <li><strong>xutils地址：</strong><a href="https://github.com/wyouflf/xUtils" target="_blank" rel="external">https://github.com/wyouflf/xUtils</a></li>
 <li><strong>xutils3地址：</strong><a href="https://github.com/wyouflf/xUtils3" target="_blank" rel="external">https://github.com/wyouflf/xUtils3</a></li>
 <li>xutils已更新到xutils3 ，xutils3 重构了xutils很多ＡＰＩ</li>
 <li>xutils3包含了很多实用的android工具.</li>
 <li>xutils3支持超大文件(超过2G)上传，更全面的http请求协议支持(11种谓词)，拥有更加灵活的ORM，更多的事件注解支持且不受混淆影响…<br>xutils3最低兼容Android 4.0 (api level 14). (Android 2.3?)<br>xutils3变化较多所以建立了新的项目不在旧版(github.com/wyouflf/xUtils)上继续维护, 相对于旧版本:<br>HTTP实现替换HttpClient为UrlConnection, 自动解析回调泛型, 更安全的断点续传策略.<br>支持标准的Cookie策略, 区分domain, path…<br>事件注解去除不常用的功能, 提高性能.<br>数据库api简化提高性能, 达到和greenDao一致的性能.<br>图片绑定支持gif(受系统兼容性影响, 部分gif文件只能静态显示), webp; 支持圆角, 圆形, 方形等裁剪, 支持自动旋转…</li>
 </ul>
-<h1 id="3、Afinal开发框架"><a href="#3、Afinal开发框架" class="headerlink" title="3、Afinal开发框架"></a>3、Afinal开发框架</h1><ul>
+<h2 id="3、Afinal开发框架"><a href="#3、Afinal开发框架" class="headerlink" title="3、Afinal开发框架"></a>3、Afinal开发框架</h2><ul>
 <li><strong>Afinal地址：</strong><a href="https://github.com/yangfuhai/afinal" target="_blank" rel="external">https://github.com/yangfuhai/afinal</a></li>
 <li>Afinal 是一个android的sqlite orm 和 ioc 框架。同时封装了android中的http框架，使其更加简单易用；</li>
 <li>使用finalBitmap，无需考虑bitmap在android中加载的时候oom的问题和快速滑动的时候图片加载位置错位等问题。</li>
@@ -531,6 +543,183 @@
 <li>FinalActivity模块：android中的ioc框架，完全注解方式就可以进行UI绑定和事件绑定。无需findViewById和setClickListener等。</li>
 <li>FinalHttp模块：通过httpclient进行封装http数据请求，支持ajax方式加载。</li>
 <li>FinalBitmap模块：通过FinalBitmap，imageview加载bitmap的时候无需考虑bitmap加载过程中出现的oom和android容器快速滑动时候出现的图片错位等现象。FinalBitmap可以配置线程加载线程数量，缓存大小，缓存路径，加载显示动画等。FinalBitmap的内存管理使用lru算法，没有使用弱引用（android2.3以后google已经不建议使用弱引用，android2.3后强行回收软引用和弱引用，详情查看android官方文档），更好的管理bitmap内存。FinalBitmap可以自定义下载器，用来扩展其他协议显示网络图片，比如ftp等。同时可以自定义bitmap显示器，在imageview显示图片的时候播放动画等（默认是渐变动画显示）。</li>
+</ul>
+<h2 id="4、LoonAndroid"><a href="#4、LoonAndroid" class="headerlink" title="4、LoonAndroid"></a>4、LoonAndroid</h2><ul>
+<li><strong>项目地址：</strong><a href="https://github.com/gdpancheng/LoonAndroid" target="_blank" rel="external">https://github.com/gdpancheng/LoonAndroid</a></li>
+<li>(1)  自动注入框架（只需要继承框架内的application既可）</li>
+<li>(2)  图片加载框架（多重缓存，自动回收，最大限度保证内存的安全性）</li>
+<li>(3)  网络请求模块（继承了基本上现在所有的http请求）</li>
+<li>(4)  eventbus（集成一个开源的框架）</li>
+<li>(5)  验证框架（集成开源框架）</li>
+<li>(6)  json解析（支持解析成集合或者对象）</li>
+<li>(7)  数据库（不知道是哪位写的 忘记了）</li>
+<li>(8)  多线程断点下载（自动判断是否支持多线程，判断是否是重定向）</li>
+<li>(9)  自动更新模块</li>
+<li>(10) 一系列工具类</li>
+</ul>
+<h1 id="数据库"><a href="#数据库" class="headerlink" title="数据库"></a>数据库</h1><h2 id="1、DBFlow"><a href="#1、DBFlow" class="headerlink" title="1、DBFlow"></a>1、DBFlow</h2><ul>
+<li><strong>项目地址：</strong><a href="https://github.com/Raizlabs/DBFlow" target="_blank" rel="external">https://github.com/Raizlabs/DBFlow</a></li>
+<li><strong>中文文档：</strong> <a href="https://github.com/VankaIn/DBFlow_CN" target="_blank" rel="external">https://github.com/VankaIn/DBFlow_CN</a></li>
+<li><strong>Demo</strong>    <a href="https://github.com/taoweiji/DBFlowExample" target="_blank" rel="external">https://github.com/taoweiji/DBFlowExample</a></li>
+<li>DBFlow目的是把其他ORM的数据库最好的优点集合在一起，而且将它们进一步优化。DBFlow不只是让你知道如何解决你的功能上的问题，而且它使你容易处理Android上的数据库。让我们好好利用DBFlow，使我们尽可能的把程序写的最好。</li>
+<li><strong>可扩展性：</strong>Model 是一个接口，无需子类，但为了方便起见，我们建议使用 BaseModel。你可以不继承任何Model类在不同的包中的类，并把它们作为你的数据库表。你也可以继承其他Model然后同时加入@Column，他们又可以在不同的packages中。此外，在该库的子类对象，能满足您的需求。（翻译不好）</li>
+<li><strong>速度:</strong>这个库内置Java的注释处理代码生成，有几乎为零的运行时性能（反射是主要的，生成的数据库模块的构造方法）。该库通过生成的代码，你可以节省样板代码和维护时间。凭借强大的模式高速缓存（多主键Model 也行），你可以通过重复使用，在这里可能超过SQLite的速度。我们支持延迟加载，如支持@ForeignKey或@OneToMany，使查询发生的速度超快。</li>
+<li><strong>SQLite流式查询:</strong>此库中的查询尽可能坚持SQLite的原生查询， select(name, screenSize).from(Android.class).where(name.is(“Nexus 5x”)).and(version.is(6.0)).querySingle()<br>开源:该库是完全开源，不仅欢迎贡献，而且鼓励。</li>
+<li><strong>强大: </strong>我们支持触发器，模型视图，索引，迁移，在同一个线程中，内置的数据库请求队列执行操作，还有更多的功能。。。</li>
+<li>多个数据库，多个模块:我们无缝支持多个数据库文件，数据库模块，在同一时间。</li>
+<li>基于SQLite:SQLite是世界上最广泛使用的数据库引擎。。。。。</li>
+<li>SQLCipher【本地数据库加密】支持</li>
+<li>支持Kotlin 扩展</li>
+</ul>
+<h2 id="2、OrmLite"><a href="#2、OrmLite" class="headerlink" title="2、OrmLite"></a>2、OrmLite</h2><ul>
+<li><strong>官网地址：</strong> <a href="http://ormlite.com/" target="_blank" rel="external">http://ormlite.com/</a></li>
+<li><strong>github地址：</strong> <a href="https://github.com/j256/ormlite-android" target="_blank" rel="external">https://github.com/j256/ormlite-android</a></li>
+<li><strong>Getting started:</strong><a href="http://ormlite.com/javadoc/ormlite-core/doc-files/ormlite_1.html#Getting-Started" target="_blank" rel="external">http://ormlite.com/javadoc/ormlite-core/doc-files/ormlite_1.html#Getting-Started</a></li>
+<li>OrmLite 不是 Android 平台专用的ORM框架，它是Java ORM。支持JDBC连接，Spring以及Android平台。语法中广泛使用了注解（Annotation）。</li>
+<li><strong>支持SQLCipher【本地数据库加密】</strong></li>
+<li><strong>github地址</strong> <a href="https://github.com/wobuaihuangjun/ormlite-sqlcipher" target="_blank" rel="external">https://github.com/wobuaihuangjun/ormlite-sqlcipher</a></li>
+<li><strong>项目DEMO</strong> <a href="https://github.com/sierpito/demo-ormlite-with-sqlcipher" target="_blank" rel="external">https://github.com/sierpito/demo-ormlite-with-sqlcipher</a></li>
+</ul>
+<h2 id="3、LitePal"><a href="#3、LitePal" class="headerlink" title="3、LitePal"></a>3、LitePal</h2><ul>
+<li><strong>github地址:</strong> <a href="https://github.com/wobuaihuangjun/ormlite-sqlcipher" target="_blank" rel="external">https://github.com/wobuaihuangjun/ormlite-sqlcipher</a></li>
+<li><strong>DEMO:</strong> <a href="https://github.com/LitePalFramework/LitePalTest" target="_blank" rel="external">https://github.com/LitePalFramework/LitePalTest</a></li>
+<li><strong>详细教程博客：</strong><a href="http://blog.csdn.net/sinyu890807/article/category/2522725" target="_blank" rel="external">http://blog.csdn.net/sinyu890807/article/category/2522725</a></li>
+<li>litepalAndroid是一个开源库，允许开发者使用SQLite数据库变得极其简单。你可以在线完成大部分的数据库操作甚至无需编写SQL语句，包括创建或升级表、CRUD操作，聚合函数等。</li>
+<li>使用对象关系映射(ORM)图案。</li>
+<li>几乎“零配置”(只有一个配置文件很少的性质)。</li>
+<li>用于维护所有表自动地(例如创建、改变或删除表)。</li>
+<li>封装的API用于避免书写SQL语句。</li>
+<li>Awesome流利的查询API。</li>
+<li>可替换的选择，仍然使用SQL，但是更容易和比原件更好的API。</li>
+<li>更引人注目。</li>
+</ul>
+<h2 id="4、greenDAO"><a href="#4、greenDAO" class="headerlink" title="4、greenDAO"></a>4、greenDAO</h2><ul>
+<li><strong>gitHub地址：</strong><a href="https://github.com/greenrobot/greenDAO" target="_blank" rel="external">https://github.com/greenrobot/greenDAO</a></li>
+<li><strong>官网地址:</strong><a href="http://greendao-orm.com/" target="_blank" rel="external">http://greendao-orm.com/</a></li>
+<li>greendao是一个开源的类库(Android)提供一个易于使用的接口到SQLite数据库的数据以帮助开发人员处理有效地减轻了开发人员从数据库处理低级别要求，同时节省了开发时间。SQLite是一个不错的嵌入式数据库。尽管如此，编写SQL语句和查询的解析结果是相当繁重且耗时的任务。您省去这些greendao通过Java对象映射到数据库表(通常称为ORM)。用这种方法你可以存储、更新、删除和查询用于Java对象的使用一个简单的面向对象的API。</li>
+<li>最大性能最快的orm(Android)；我们的基准都是开放源码的太</li>
+<li>易于使用强大的API的覆盖关系和加入</li>
+<li>最小内存消耗</li>
+<li>小库大小(&lt;100KB),以保持您的构建时间且避免在65K限制方法</li>
+<li>数据库加密支持：greendaosqlcipher保持用户数据的安全</li>
+<li>强大的社区：超过4.000GitHub五角星表示强烈和活跃的社区</li>
+</ul>
+<h2 id="6、activeandroid"><a href="#6、activeandroid" class="headerlink" title="6、activeandroid"></a>6、activeandroid</h2><ul>
+<li><strong>gitHub地址：</strong><a href="https://github.com/pardom/ActiveAndroid" target="_blank" rel="external">https://github.com/pardom/ActiveAndroid</a></li>
+<li><strong>官网地址:</strong><a href="http://www.activeandroid.com/" target="_blank" rel="external">http://www.activeandroid.com/</a></li>
+<li>Active Record（活动目录）是Yii、Rails等框架中对ORM实现的典型命名方式。Active Android 帮助你以面向对象的方式来操作SQLite。。</li>
+</ul>
+<h2 id="7、sugar-ORM"><a href="#7、sugar-ORM" class="headerlink" title="7、sugar ORM"></a>7、sugar ORM</h2><ul>
+<li><strong>gitHub地址：</strong><a href="https://github.com/satyan/sugar" target="_blank" rel="external">https://github.com/satyan/sugar</a></li>
+<li><strong>官网地址:</strong><a href="http://satyan.github.io/sugar/index.html" target="_blank" rel="external">http://satyan.github.io/sugar/index.html</a></li>
+<li>用超级简单的方法处理Android数据库</li>
+<li>数据库的创建</li>
+<li>简单的API来操纵你的业务对象</li>
+</ul>
+<h2 id="8、android-lite-orm"><a href="#8、android-lite-orm" class="headerlink" title="8、android-lite-orm"></a>8、android-lite-orm</h2><ul>
+<li><strong>gitHub地址：</strong><a href="https://github.com/litesuits/android-lite-orm" target="_blank" rel="external">https://github.com/litesuits/android-lite-orm</a></li>
+<li><strong>官网地址:</strong> <a href="http://litesuits.com/?form=gorm" target="_blank" rel="external">http://litesuits.com/?form=gorm</a></li>
+<li>LiteOrm是一个小巧、强大、比系统自带数据库操作性能快1倍的 android ORM 框架类库，开发者一行代码实现数据库的增删改查操作，以及实体关系的持久化和自动映射。</li>
+</ul>
+<h2 id="9、realm"><a href="#9、realm" class="headerlink" title="9、realm"></a>9、realm</h2><ul>
+<li><strong>官网地址</strong> <a href="https://realm.io/cn/" target="_blank" rel="external">https://realm.io/cn/</a></li>
+<li>移动数据库：一个SQLite和ORM的替换品</li>
+<li>支持 （Java、Objective—C、swift、React Native 、Xamarin ）</li>
+</ul>
+<h1 id="网络请求"><a href="#网络请求" class="headerlink" title="网络请求"></a>网络请求</h1><h2 id="1、volley"><a href="#1、volley" class="headerlink" title="1、volley"></a>1、volley</h2><ul>
+<li><strong>官网地址</strong><a href="https://github.com/smanikandan14/Volley-demo" target="_blank" rel="external">https://github.com/smanikandan14/Volley-demo</a></li>
+<li>Google推出了官方的针对Android平台上的网络通信库，能使网络通信更快，更简单，更健壮</li>
+<li>Volley在提供了高性能网络通讯功能的同时，对网络图片加载也提供了良好的支持</li>
+<li>1、封装了的异步的RESTful 请求API；</li>
+<li>2、一个优雅和稳健的请求队列；</li>
+<li>3、一个可扩展的架构，它使开发人员能够实现自定义的请求和响应处理机制；</li>
+<li>4、能够使用外部HTTP Client库；</li>
+<li>5、缓存策略；</li>
+<li>6、自定义的网络图像加载视图（NetworkImageView，ImageLoader等);</li>
+</ul>
+<h2 id="2、android-async-http"><a href="#2、android-async-http" class="headerlink" title="2、android-async-http"></a>2、android-async-http</h2><ul>
+<li><strong>项目地址：</strong><a href="https://github.com/loopj/android-async-http" target="_blank" rel="external">https://github.com/loopj/android-async-http</a></li>
+<li><strong>文档介绍：</strong><a href="http://loopj.com/android-async-http/" target="_blank" rel="external">http://loopj.com/android-async-http/</a> </li>
+<li>(1) 在匿名回调中处理请求结果</li>
+<li>(2) 在UI线程外进行http请求</li>
+<li>(3) 文件断点上传</li>
+<li>(4) 智能重试</li>
+<li>(5) 默认gzip压缩</li>
+<li>(6) 支持解析成Json格式</li>
+<li>(7) 可将Cookies持久化到SharedPreferences</li>
+</ul>
+<h2 id="3、okhttp"><a href="#3、okhttp" class="headerlink" title="3、okhttp"></a>3、okhttp</h2><ul>
+<li><strong>官方地址：</strong><a href="http://square.github.io/okhttp/" target="_blank" rel="external">http://square.github.io/okhttp/</a></li>
+<li><strong> gitHub </strong> <a href="https://github.com/square/okhttp" target="_blank" rel="external">https://github.com/square/okhttp</a></li>
+<li>HTTP是应用现代网络。它告诉我们如何与媒体交换数据。做HTTP负载使助力你的东西快和节省带宽。</li>
+<li>okhttp是HTTP客户端，通过有效的默认值：</li>
+<li>HTTP/2支持允许所有的请求到相同主机共享一个插座。</li>
+<li>连接池减少等待时间请求（如HTTP/2没有可用的)。</li>
+<li>透明gzip下载尺寸收缩。</li>
+<li>响应高速缓存避免了将网络完全用于重传请求。</li>
+<li>okhttp坚守当网络是麻烦：它会悄然恢复从常见的连接问题。如果你的服务有多个IP地址okhttp试图替换地址，如果第一次连接失败。这是对于IPv4+IPv6服务，已在中心托管的冗余数据。okhttp发起新的TLS连接与现代特征(SNI，alpn)，并且落回到TLS1.0如果握手失败。</li>
+<li>使用okhttp是容易的。其请求/响应API设计流畅和永恒性的建设者。它同时支持同步阻塞调用和异步调用的回调。</li>
+<li>okhttp支持安卓2.3及以上。对于Java，最低要求是1.7。</li>
+</ul>
+<h2 id="4、android-lite-http"><a href="#4、android-lite-http" class="headerlink" title="4、android-lite-http"></a>4、android-lite-http</h2><ul>
+<li><strong>gitHub地址：</strong><a href="https://github.com/litesuits/android-lite-http" target="_blank" rel="external">https://github.com/litesuits/android-lite-http</a></li>
+<li><strong>官网地址:</strong> <a href="http://litesuits.com/?form=gorm" target="_blank" rel="external">http://litesuits.com/?form=gorm</a></li>
+<li>litehttp是一种简单、灵活和智能的AndroidHTTP框架。你可以用litehttphttp请求只写一行代码！它可以转换一个Java模型参数和兰德作为一个JSON响应Java模式的智能化水平</li>
+</ul>
+<h1 id="图片加载及处理"><a href="#图片加载及处理" class="headerlink" title="图片加载及处理"></a>图片加载及处理</h1><h2 id="1、Android-Universal-Image-Loader"><a href="#1、Android-Universal-Image-Loader" class="headerlink" title="1、Android-Universal-Image-Loader"></a>1、Android-Universal-Image-Loader</h2><ul>
+<li><strong>项目地址：</strong> <a href="https://github.com/nostra13/Android-Universal-Image-Loader" target="_blank" rel="external">https://github.com/nostra13/Android-Universal-Image-Loader</a></li>
+<li>Android-Universal-Image-Loader是一个开源的UI组件程序，该项目的目的是提供一个可重复使用的仪器为异步图像加载，缓存和显示</li>
+<li>多线程的图片加载(Async或Sync)</li>
+<li>imageloader定制的配置(线程执行下载器、解码器、存储器和磁盘缓存，显示图像的选项，等等。）</li>
+<li>定制选项的每一个显示呼叫图像(短轴图像缓存，解码选项、位图的处理和显示等。)</li>
+<li>图像缓存存储器中和/或磁盘上的文件的系统(设备或SD卡)</li>
+<li>装载过程（包括监听下载进度）</li>
+<li><strong>效果图</strong> <img src="https://raw.githubusercontent.com/nostra13/Android-Universal-Image-Loader/master/UniversalImageLoader.png" alt="enter image description here"><h2 id="2、-picasso"><a href="#2、-picasso" class="headerlink" title="2、 picasso"></a>2、 picasso</h2></li>
+<li><strong>项目地址：</strong> <a href="https://github.com/square/picasso" target="_blank" rel="external">https://github.com/square/picasso</a> 或 <a href="http://square.github.io/picasso/" target="_blank" rel="external">http://square.github.io/picasso/</a></li>
+<li>picasso是Square公司开源的一个Android图形缓存库；可以实现图片下载和缓存功能。仅仅只需要一行代码就能完全实现图片的异步加载：</li>
+</ul>
+<h2 id="3、Glide"><a href="#3、Glide" class="headerlink" title="3、Glide"></a>3、Glide</h2><ul>
+<li><strong>项目地址：</strong> <a href="https://github.com/bumptech/glide" target="_blank" rel="external">https://github.com/bumptech/glide</a></li>
+<li>Glide 是一个 Android 上的图片加载和缓存库，其目的是实现平滑的图片列表滚动效果。</li>
+</ul>
+<h2 id="4、Fresco"><a href="#4、Fresco" class="headerlink" title="4、Fresco"></a>4、Fresco</h2><ul>
+<li><strong>项目地址：</strong> <a href="http://www.fresco-cn.org/或https://github.com/facebook/fresco" target="_blank" rel="external">http://www.fresco-cn.org/或https://github.com/facebook/fresco</a></li>
+<li>Fresco 是一个强大的图片加载组件。</li>
+<li>Fresco 中设计有一个叫做 image pipeline 的模块。它负责从网络，从本地文件系统，本地资源加载图片。为了最大限度节省空间和CPU时间，它含有3级缓存设计（2级内存，1级文件）。</li>
+<li>Fresco 中设计有一个叫做 Drawees 模块，方便地显示loading图，当图片不再显示在屏幕上时，及时地释放内存和空间占用。</li>
+<li>Fresco 支持 Android2.3(API level 9) 及其以上系统。</li>
+</ul>
+<h2 id="5、picasso-transformations"><a href="#5、picasso-transformations" class="headerlink" title="5、picasso-transformations"></a>5、picasso-transformations</h2><ul>
+<li><strong>项目地址：</strong> <a href="https://github.com/wasabeef/picasso-transformations" target="_blank" rel="external">https://github.com/wasabeef/picasso-transformations</a></li>
+<li>picasso-transformations是一个图像转换类库，为Picasso（强大的图片下载和缓存开源软件）提供各种各样的图像转换。</li>
+<li><strong>效果图</strong></li>
+<li><img src="https://github.com/wasabeef/picasso-transformations/blob/master/art/demo.gif?raw=true" alt="enter image description here"></li>
+</ul>
+<h2 id="6、glide-transformations"><a href="#6、glide-transformations" class="headerlink" title="6、glide-transformations"></a>6、glide-transformations</h2><ul>
+<li><strong>项目地址：</strong> <a href="https://github.com/wasabeef/glide-transformations" target="_blank" rel="external">https://github.com/wasabeef/glide-transformations</a></li>
+<li>一个基于Glide的transformation库，拥有裁剪，着色，模糊，滤镜等多种转换效果</li>
+<li><strong>效果图</strong></li>
+<li><img src="https://github.com/wasabeef/glide-transformations/blob/master/art/demo.gif?raw=true" alt="enter image description here"></li>
+</ul>
+<h2 id="7、GlidePalette"><a href="#7、GlidePalette" class="headerlink" title="7、GlidePalette"></a>7、GlidePalette</h2><ul>
+<li><strong>项目地址：</strong> <a href="https://github.com/florent37/GlidePalette" target="_blank" rel="external">https://github.com/florent37/GlidePalette</a></li>
+<li>一个可以在Glide加载时很方便使用Palette的库</li>
+<li><strong>效果图</strong></li>
+<li><img src="https://raw.githubusercontent.com/florent37/GlidePalette/master/screenshot/night_small_2.png" alt="enter image description here"></li>
+</ul>
+<h2 id="8、android-gpuimage"><a href="#8、android-gpuimage" class="headerlink" title="8、android-gpuimage"></a>8、android-gpuimage</h2><ul>
+<li><strong>项目地址：</strong> <a href="https://github.com/CyberAgent/android-gpuimage" target="_blank" rel="external">https://github.com/CyberAgent/android-gpuimage</a></li>
+<li>实现各种各样图像滤镜（图像处理）效果，多达50多种效果，基本囊括了最常见的图像处理效果。包括：contrast，hue，gamma，brightness，sharpness，emboss，saturation，exposure，shadow，blend等等。 由于需要用到OpenGL ES 2.0，所以，仅能在真机中测试。可以载入本地相册的照片或者直接拍照后进行照片处理。</li>
+</ul>
+<h2 id="9、基于android-gpuimage-开发项目"><a href="#9、基于android-gpuimage-开发项目" class="headerlink" title="9、基于android-gpuimage 开发项目"></a>9、基于android-gpuimage 开发项目</h2><ul>
+<li><strong>android-instagram-filter </strong></li>
+<li>基于gpuimage的android图片滤镜，实现instagram效果。</li>
+<li><strong>项目地址：</strong> <a href="https://github.com/sangmingming/android-instagram-filter" target="_blank" rel="external">https://github.com/sangmingming/android-instagram-filter</a></li>
+<li><strong>android-instagram-image-filter</strong></li>
+<li>模仿instagram的滤镜（和in的滤镜类似</li>
+<li><strong>项目地址：</strong><a href="https://github.com/imrunning/android-instagram-image-filter" target="_blank" rel="external">https://github.com/imrunning/android-instagram-image-filter</a></li>
+<li><strong>效果图</strong> </li>
+<li><img src="https://raw.githubusercontent.com/imrunning/android-instagram-filter/master/Screenshot/Screenshot_2015-03-13-09-13-15.png" alt="enter image description here"></li>
 </ul>
 ]]></content>
     </entry>
